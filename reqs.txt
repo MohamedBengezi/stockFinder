@@ -1,0 +1,6 @@
+yahoo_fin
+pandas
+pandas_datareader
+yfinance
+requests
+datetime
